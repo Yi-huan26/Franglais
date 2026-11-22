@@ -41,7 +41,6 @@ Consider these expressions:
 
 > How much of our identity is shaped by the languages we speak?
 
-You can write the characters \* and \# literally by escaping them in Markdown.
 
 ## Further Reading
 
