@@ -23,7 +23,8 @@ Whether you're passionate about learning a new language, discovering different t
 
 ---
 
-## Three Worlds, One Blog
+Three Worlds, One Blog
+---------------------
 
 ### Languages
 
