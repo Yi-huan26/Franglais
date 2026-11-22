@@ -6,6 +6,7 @@ layout: default
 [Home](./) | [Languages](languages.html) | [Lifestyle](lifestyle.html) | [Culture](culture.html)
 
 # The Language Diaries
+![Language learning and books](images/languages.jpg)
 
 *Every language opens a new door.*
 
