@@ -45,9 +45,10 @@ Comment ça va ?
 How are you?
 ```
 
-## Useful Resources
 
-Explore the [Council of Europe's language education resources](https://www.coe.int/en/web/common-european-framework-reference-languages).
+## Explore More Language Resources
+
+Interested in improving your language skills? Explore the [Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages) to learn more about language proficiency levels and language learning.
 
 ---
 
