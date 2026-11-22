@@ -10,6 +10,10 @@ Welcome to **Franglais**, a blog celebrating the beauty of languages, everyday l
 
 Whether you're passionate about learning a new language, discovering different traditions or finding inspiration in everyday life, there's something here for you.
 
+Discover new languages.  
+Explore everyday inspiration.  
+Celebrate cultures without borders.
+
 ---
 
 ## Explore Franglais
