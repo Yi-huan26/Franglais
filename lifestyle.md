@@ -6,6 +6,7 @@ layout: default
 [Home](./) | [Languages](languages.html) | [Lifestyle](lifestyle.html) | [Culture](culture.html)
 
 # The Lifestyle Edit
+![Lifestyle and everyday inspiration](images/lifestyle.jpg)
 
 *Finding beauty in the everyday.*
 
