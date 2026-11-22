@@ -6,6 +6,7 @@ layout: default
 [Home](./) | [Languages](languages.html) | [Lifestyle](lifestyle.html) | [Culture](culture.html)
 
 # Culture Without Borders
+![Cultural traditions and colourful textiles](images/culture.jpg)
 
 *Different traditions. Shared humanity.*
 
